@@ -24,7 +24,6 @@
 
 ### **README.md (English)**
 
-```markdown
 # :star: Portfolio - Marvin :star:
 
 ## About Me

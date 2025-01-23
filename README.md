@@ -25,7 +25,7 @@
 
 📧 **Email** : [marvin.pire.tech@gmail.com](mailto:marvin.pire.tech@gmail.com)  
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/marvin-pire-9ba340286/)
-📱  **Téléphone** : +32 491 87 88 05
+📱  **Télephone** : +32 491 87 88 05
 
 ---
 

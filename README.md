@@ -23,7 +23,6 @@
 
 ## Contact
 
-📱  **Télephone** :+32 491 87 88 05
 📧 **Email** : [marvin.pire.tech@gmail.com](mailto:marvin.pire.tech@gmail.com)  
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/marvin-pire-9ba340286/)
 
@@ -58,5 +57,4 @@
 
 📧 **Email** : [marvin.pire.tech@gmail.com](mailto:marvin.pire.tech@gmail.com)  
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/marvin-pire-9ba340286/)
-📱  **Phone** : +32 491 87 88 05
 

@@ -3,7 +3,9 @@
 ## À propos de moi
 
 👋 Salut, je suis Marvin, étudiant en **Master en Architecture des Systèmes Informatiques** à la HEPL. Mon objectif est de continuer à développer mes compétences en technologie, en particulier dans le domaine des systèmes informatiques.
-🎯 Mon objectif ultime est de devenir un leader dans toute entreprise qui valorise l’innovation et la collaboration.
+
+🎯 Mon objectif ultime est de devenir un leader dans toute entreprise qui valorise l’innovation et la collaboration.+
+
 ---
 
 ## Compétences

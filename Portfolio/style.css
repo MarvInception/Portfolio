@@ -1,0 +1,101 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #fff; /* Texte en blanc */
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between; /* Espace entre le titre et l'image */
+    align-items: center; /* Centrer verticalement le contenu */
+    background-color: black;
+    padding: 10px 20px;
+    border-bottom: 2px solid #444; /* Ligne décorative en bas */
+}
+
+/* Titre */
+header h1 {
+    font-size: 1.8rem;
+    color: white;
+}
+
+header p#age {
+    font-size: medium;
+    color: #ccc; /* Couleur grise pour le texte */
+    margin-top: 5px;
+    text-align: left;
+}
+
+
+/* Image de profil */
+img.profil {
+    width: 100px; /* Ajustez la taille selon vos besoins */
+    height: 100px;
+    border-radius: 50%; /* Rend l'image circulaire */
+    border: 2px solid white; /* Ajoute une bordure blanche */
+    object-fit: cover; /* S'assure que l'image reste proportionnelle */
+    position: relative;
+    right: 10px;
+    cursor: pointer;
+}
+
+/* Style de la fenêtre modale */
+.modal {
+    display: none; /* Cachée par défaut */
+    position: fixed;
+    z-index: 10; /* Au-dessus des autres éléments */
+    left: 0;
+    top: 0;
+    width: 100%; /* Prend tout l'écran */
+    height: 100%;
+    overflow: auto; /* Scroll si nécessaire */
+    background-color: rgba(0, 0, 0, 0.8); /* Fond semi-transparent */
+}
+
+/* Image agrandie */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%; /* Largeur de l'image agrandie */
+    max-width: 700px;
+    border-radius: 8px;
+}
+
+/* Bouton de fermeture */
+.modal .close {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/* Conteneur de l'image de fond */
+div.background-container {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1; /* Place le fond derrière le contenu */
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+
